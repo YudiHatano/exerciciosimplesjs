@@ -7,7 +7,7 @@ var escolha;
 escolha = prompt("A. Soma de dois números" + "\n" +
                  "B. Diferença entre dois números" + "\n" +
                  "C. Produto entre dois números" + "\n" +
-                 "D. Divisão entre dois números" + "\n\n" + 
+                 "D. Divisão entre dois números" + "\n" + 
                  "Escolha uma opção em número: ").toUpperCase();
 
 // Casos do Switch
